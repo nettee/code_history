@@ -1,0 +1,2 @@
+	The varible state records whether the program is currently in a word or not; initially it is no	We prefer the s	ymbolic c	onstants IN and OUT to the literal values 1 and 0 because
+	as tiny as this, it makes little difference, but

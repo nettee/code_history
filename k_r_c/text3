@@ -1,0 +1,7 @@
+    The varible state records whether the program is currently in a word or not; initially it is not a word, which is assigned the value of OUT.
+    We prefer the s	ymbolic c	onstants IN and OUT to the literal values 1 and 0 because
+they 	make the program
+more rea	da	ble
+.		
+in a p	rogram
+    as tiny as this, it makes little difference, but

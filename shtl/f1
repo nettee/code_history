@@ -1,0 +1,6 @@
+---file1---
+'*'. 
+All         command-line arguments present are gathered into a list.
+Note that it     generally doesn't make much sense to have more than one positional argument with nargs='*',
+but multiple opt    ional arguments with nargs='*' is possible.
+For example: hello  
